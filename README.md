@@ -1,6 +1,3 @@
-# Automatic-Manufacturing-component-Defect-Detector
-
-
 ## Table of contents
 * [Automatic Manufacturing component Defect Detector](#general-info)
 * [Technologies](#technologies)
@@ -39,6 +36,3 @@ Python -m pip install -r requirements.txt
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenprabaharan-selvaraj-86771016b/)
-
-
-
