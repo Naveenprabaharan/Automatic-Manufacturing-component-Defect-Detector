@@ -1,0 +1,2 @@
+# Automatic-Manufacturing-component-Defect-Detector
+The purpose of this project is to detect &lt;strong>DEFECT Product&lt;/strong> using computer                 vision. This project will help different organizations for detecting defect component i.e. Dia of pipe , size of the component.                 By using this technology, we can create Quality product and this reduces the Manpower and increase the production rate.
